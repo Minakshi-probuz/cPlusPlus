@@ -8,7 +8,8 @@ void main()
 }
 void area(){
 
-int pi=3.14,r=4;
+float pi=3.14;
+    int r=4;
 int c=pi*r*r;
 cout<<"area of circle:"<<""<<c;
 }
