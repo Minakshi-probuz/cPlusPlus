@@ -1,3 +1,10 @@
+/*
+     1
+    123
+   12345
+  1234567
+  */
+
 #include<iostream>
 using namespace std;
 int main(){
